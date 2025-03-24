@@ -7,6 +7,7 @@ import Cart from "./pages/Cart";
 import Login from "./pages/Login";
 import SignUp from "./pages/SignUp";
 
+
 const App = () => {
     return (
         <Router>
@@ -23,5 +24,6 @@ const App = () => {
         </Router>
     );
 };
+
 
 export default App;
